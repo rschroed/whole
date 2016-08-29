@@ -1,0 +1,31 @@
+#hulu {
+	
+}
+
+#hulu #hello {
+	background-image: none;
+	padding: 50px 0 0 0;
+	margin: 0;
+	text-align: center;
+}
+
+
+#hulu #hello h1 {
+	font-weight: 900;/*
+
+	font-style: italic;
+*/
+	font-size: 24px;
+	text-transform: uppercase;
+	letter-spacing: 6px;
+	text-align: center;
+	background-image: url(/img/logos/Hulu_Logo_Option_A.png);
+	background-size: 160px;
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	padding-bottom: 70px;
+	}
+	
+	#hulu #hello h1 span {
+		display: none;
+		}

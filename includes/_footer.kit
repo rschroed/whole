@@ -1,0 +1,30 @@
+<section id="color">
+<div class="one color"></div>
+<div class="two color"></div>
+<div class="three color"></div>
+<div class="four color"></div>
+<div class="five color"></div>
+</section>
+
+		<script src="/js/vendor/jquery.min.js"></script>
+		<script src="/js/foundation.min.js"></script>
+		<script src="/js/app.js"></script>
+		<script src="http://cdn.jsdelivr.net/velocity/1.1.0/velocity.min.js"></script>
+
+
+		<script type="text/javascript">
+			$(document).ready(function () {
+				$(".one").velocity({ width: "66%", opacity: ".4", right: "40%" },
+					{ loop: true, duration: 1400 });
+				$(".two").velocity({ width: "80%", opacity: ".1" },
+					{ loop: true, duration: 1000 });
+				$(".three").velocity({ width: "66%", opacity: ".4" },
+					{ loop: true, duration: 1600 });
+				$(".four").velocity({ width: "66%", opacity: ".1" },
+					{ loop: true, duration: 2000 });
+				$(".five").velocity({ width: "66%", opacity: ".2" },
+					{ loop: true, duration: 2000 });
+			});
+		</script>		
+	</body>
+</html>

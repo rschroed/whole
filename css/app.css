@@ -1,0 +1,451 @@
+body {
+  background-color: #f1f1f1;
+  background-image: url(../img/global/background.png); }
+
+h1, h2, h3, h4, h5, p, div {
+  font-family: "omnes-pro",sans-serif; }
+
+#lede {
+  padding: 5px;
+  background: #3ff5c2; }
+
+#header {
+  background-image: url(../img/CircuitBreaker.png);
+  background-position: center 50px;
+  background-repeat: no-repeat;
+  background-size: 200px;
+  padding: 300px 0 0 0;
+  margin: 0; }
+
+#header h1 {
+  font-size: 4em;
+  font-weight: 500;
+  letter-spacing: .15em;
+  text-transform: uppercase;
+  text-align: center; }
+
+h2 {
+  font-size: 1.1em;
+  font-weight: 500;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 0; }
+
+.divider {
+  background-image: url(../img/global/rule-horiz.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  padding: 10px 0 0 0;
+  margin: 80px 0; }
+
+.strike {
+  background-image: url(../img/global/rule-horiz.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  display: inline-block;
+  margin: auto 45%;
+  outline: 1px solid red; }
+
+#logos {
+  margin: 0; }
+
+#logos h2 span {
+  color: white;
+  padding: 5px 20px;
+  background-color: #3ff5c2; }
+
+#logos h2 a {
+  color: black;
+  border-bottom: 1px #bfbfbf solid; }
+
+.portfolio #logos {
+  margin-top: 80px; }
+
+.logorow {
+  margin: 4em 0; }
+
+.logo {
+  border: 1px #dddddd solid;
+  height: 100px;
+  box-shadow: 0px 20px 30px -20px rgba(0, 0, 0, 0.1), -20px 20px 30px -20px rgba(0, 0, 0, 0.1);
+  background-color: rgba(255, 255, 255, 0.8);
+  background-repeat: no-repeat;
+  background-position: center center; }
+
+.logo p {
+  text-align: center;
+  font-size: 1em;
+  margin: 33px 10% 0 10%;
+  font-weight: 300;
+  font-style: italic;
+  color: black;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  line-height: 100%; }
+
+.logo a {
+  text-indent: -9999px;
+  width: 118%;
+  display: block;
+  margin: 0 -15px;
+  height: 100px;
+  text-align: center;
+  color: black;
+  text-transform: uppercase;
+  font-weight: 600;
+  padding-top: 35px;
+  background-image: url("/img/global/eye-solid.png");
+  background-size: 20px;
+  background-repeat: no-repeat;
+  background-position: right 8px bottom 5px;
+  opacity: .2; }
+
+.logo a:hover {
+  text-indent: 0;
+  background-color: #3ff5c2;
+  opacity: .85;
+  background-image: none; }
+
+.tny {
+  background-image: url(../img/logos/tny.png);
+  background-size: 130px; }
+
+.fb {
+  background-image: url(../img/logos/facebook.png);
+  background-size: 130px; }
+
+.people {
+  background-image: url(../img/logos/people.png);
+  background-size: 110px; }
+
+.epi {
+  background-image: url(../img/logos/epi.png);
+  background-size: 130px; }
+
+.adready {
+  background-image: url(../img/logos/adready.png);
+  background-size: 130px; }
+
+.evri {
+  background-image: url(../img/logos/evri.png);
+  background-size: 80px; }
+
+.time {
+  background-image: url(../img/logos/time.png);
+  background-size: 115px; }
+
+.zynga {
+  background-image: url(../img/logos/zynga.png);
+  background-size: 120px; }
+
+.wetpaint {
+  background-image: url(../img/logos/wetpaint.png);
+  background-size: 120px; }
+
+.hulu {
+  background-image: url(../img/logos/Hulu_Logo_Option_A.png);
+  background-size: 80px; }
+
+h3 {
+  font-style: italic;
+  font-size: 1.1em;
+  font-weight: 600;
+  letter-spacing: .05em;
+  text-transform: uppercase; }
+
+h3 span {
+  font-weight: 500;
+  margin-left: .5em; }
+
+#bio {
+  margin: 0px 0px 0px 0px; }
+
+#bio h2 {
+  margin: 50px 0 0 0; }
+
+#bio p {
+  font-size: 1.2em; }
+
+#bio p a {
+  color: black;
+  border-bottom: 1px #bfbfbf solid; }
+
+#cta {
+  padding: 0 0 100px 0; }
+
+#cta h3 {
+  font-size: 1.9em;
+  letter-spacing: 0.1em; }
+
+#cta h3 {
+  color: black;
+  padding: 5px 20px;
+  background-color: #3ff5c2;
+  display: inline-block;
+  margin: 10px 10px 10px -20px; }
+
+#cta h4 {
+  font-size: 1.4em; }
+
+#cta h4 a, #cta p a {
+  color: black;
+  border-bottom: 1px #bfbfbf solid; }
+
+#cta h4 a span {
+  font-size: .75em;
+  font-weight: 500; }
+
+#cta p {
+  margin-bottom: 0; }
+
+.atvImg {
+  width: 200px;
+  height: 105px; }
+
+div.color {
+  height: 5em;
+  width: 50%;
+  position: fixed;
+  bottom: 0;
+  opacity: .3;
+  /* 			outline: 1px solid silver; */ }
+
+.one {
+  background: -webkit-radial-gradient(center bottom, rgba(63, 245, 194, 0.65) 0%, rgba(63, 245, 194, 0) 50%);
+  right: 0; }
+
+.two {
+  background: -webkit-radial-gradient(center bottom, rgba(0, 0, 255, 0.65) 0%, rgba(0, 0, 255, 0) 50%);
+  right: 20%; }
+
+.three {
+  background: -webkit-radial-gradient(center bottom, rgba(0, 255, 0, 0.65) 0%, rgba(0, 255, 0, 0) 50%);
+  left: 50%; }
+
+.four {
+  background: -webkit-radial-gradient(center bottom, rgba(0, 255, 0, 0.65) 0%, rgba(0, 255, 0, 0) 50%);
+  left: 20%; }
+
+.five {
+  background: -webkit-radial-gradient(center bottom, rgba(63, 245, 194, 0.65) 0%, rgba(63, 245, 194, 0) 50%); }
+
+#work #bio {
+  margin-top: 120px; }
+
+#hulu #hello {
+  background-image: none;
+  padding: 50px 0 0 0;
+  margin: 0;
+  text-align: center; }
+
+#hulu #hello h1 {
+  font-weight: 900;
+  	                 /*
+  
+  	font-style: italic;
+  */
+  font-size: 24px;
+  text-transform: uppercase;
+  letter-spacing: 6px;
+  text-align: center;
+  background-image: url(/img/logos/Hulu_Logo_Option_A.png);
+  background-size: 160px;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  padding-bottom: 70px; }
+
+#hulu #hello h1 span {
+  display: none; }
+
+.home {
+  position: absolute;
+  top: 40px;
+  left: 30px;
+  text-indent: -9999px;
+  height: 45px;
+  width: 45px;
+  border-radius: 50%;
+  border: 2px solid #efefef;
+  background-image: url(/img/global/home.png);
+  background-size: 25px;
+  background-repeat: no-repeat;
+  background-position: center center; }
+
+.home:hover {
+  background-color: #3ff5c2;
+  border-color: #3ff5c2; }
+
+.header {
+  background-color: white;
+  padding: 100px 0;
+  margin-bottom: 80px;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1); }
+
+.role {
+  margin: 20px 0;
+  text-align: center; }
+
+.examples {
+  margin-top: 80px; }
+
+.examples .row {
+  margin-bottom: 180px; }
+
+.examples .row:last-of-type {
+  margin-bottom: 40px; }
+
+.port-img {
+  border: 1px rgba(0, 0, 0, 0.1) solid;
+  margin-right: 100px;
+  box-shadow: 0px 20px 30px -20px rgba(0, 0, 0, 0.1), -20px 20px 30px -20px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  height: 540px;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+.item-description {
+  display: inline-block;
+  margin: 40px;
+  padding: 20px;
+  background-color: white;
+  position: relative;
+  border: 1px rgba(0, 0, 0, 0.1) solid; }
+
+.item-description h5 {
+  font-size: 1.1em;
+  font-weight: 500;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  line-height: 100%;
+  margin: 0; }
+
+.item-description p {
+  line-height: 100%;
+  margin: 0; }
+
+.what {
+  background-color: #3ff5c2; }
+
+.circle {
+  margin: 10px 0px;
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  background-color: #3ff5c2;
+  text-align: center;
+  font-style: italic;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 15px;
+  -webkit-transform: rotate(340deg);
+          transform: rotate(340deg);
+  padding-top: 14px; }
+
+#next a {
+  color: black; }
+
+#next a:hover .circle {
+  -webkit-transform: rotate(0deg);
+          transform: rotate(0deg); }
+
+#redacted-1 {
+  background-image: url(/img/port/redacted/01.jpg); }
+
+#redacted-1 .scroller-item-description {
+  margin-top: 430px; }
+
+#redacted-2 {
+  background-image: url(/img/port/redacted/02.jpg); }
+
+#redacted-2 .scroller-item-description {
+  margin-top: 120px; }
+
+#redacted-3 {
+  background-image: url(/img/port/redacted/03.jpg); }
+
+#redacted-3 .scroller-item-description {
+  margin-top: 380px; }
+
+#redacted-4 {
+  background-image: url(/img/port/redacted/04.jpg); }
+
+#redacted-5 {
+  background-image: url(/img/port/redacted/05.jpg); }
+
+#redacted-6 {
+  background-image: url(/img/port/redacted/06.jpg); }
+
+#redacted-7 {
+  background-image: url(/img/port/redacted/07.jpg); }
+
+#redacted-8 {
+  background-image: url(/img/port/redacted/08.jpg); }
+
+#redacted-9 {
+  background-image: url(/img/port/redacted/09.jpg); }
+
+#epi-1 {
+  background-image: url(/img/port/epi/01.jpg); }
+
+#epi-2 {
+  background-image: url(/img/port/epi/02.jpg); }
+
+#epi-3 {
+  background-image: url(/img/port/epi/03.jpg);
+  height: 729px; }
+
+#epi-4 {
+  background-image: url(/img/port/epi/04.jpg);
+  height: 729px; }
+
+#epi-5 {
+  background-image: url(/img/port/epi/05.jpg);
+  height: 729px; }
+
+#time-wrapper {
+  width: 10000px; }
+
+#time-1 {
+  background-image: url(/img/port/time/01.jpg); }
+
+#time-2 {
+  background-image: url(/img/port/time/02.jpg); }
+
+#time-3 {
+  background-image: url(/img/port/time/03.jpg); }
+
+#time-4 {
+  background-image: url(/img/port/time/04.jpg); }
+
+#time-5 {
+  background-image: url(/img/port/time/05.jpg); }
+
+#time-6 {
+  background-image: url(/img/port/time/06.jpg); }
+
+#time-7 {
+  background-image: url(/img/port/time/07.jpg); }
+
+#time-8 {
+  background-image: url(/img/port/time/08.jpg); }
+
+#tny-1 {
+  background-image: url(/img/port/tny/01.png); }
+
+#tny-2 {
+  background-image: url(/img/port/tny/02.png); }
+
+#tny-2 .scroller-item-description {
+  margin-top: 300px; }
+
+#tny-3 {
+  background-image: url(/img/port/tny/03.jpg); }
+
+#tny-4 {
+  background-image: url(/img/port/tny/04.jpg); }
+
+#tny-4 .scroller-item-description {
+  margin-top: 380px; }
+
+/*# sourceMappingURL=app.css.map */
