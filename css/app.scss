@@ -31,6 +31,10 @@ h1,h2,h3,h4,h5,p,div {font-family: "omnes-pro",sans-serif;}
 	background-size: 200px;
 	padding: 300px 0 0 0;
 	margin: 0;
+	@media screen and (max-width: 480px) {
+   	 background-size: 150px;
+   	 padding: 240px 0 0 0;
+  }
 }
 
 
@@ -40,7 +44,10 @@ h1,h2,h3,h4,h5,p,div {font-family: "omnes-pro",sans-serif;}
 	letter-spacing: .15em;
 	text-transform: uppercase;
 	text-align: center;
-	
+	line-height: 100%;
+	@media screen and (max-width: 480px) {
+		font-size: 3.3em;
+	}
 }
 
 h2 {
@@ -59,6 +66,9 @@ h2 {
 	background-repeat: no-repeat;
 	padding: 10px 0 0 0;
 	margin: 80px 0;
+		@media screen and (max-width: 480px) {
+		margin: 40px 0;
+	}
 }
 
 .strike {
@@ -69,6 +79,14 @@ h2 {
 	margin: auto 45%;
 	outline: 1px solid red;
 	}
+
+.headshot-wrapper {
+	text-align: inherit;
+		@media screen and (max-width: 480px) {
+		text-align: center;
+		margin-bottom: 40px;
+	}
+}
 
 .headshot {
 
@@ -95,6 +113,9 @@ h2 {
 
 .logorow {
 	margin: 4em 0;
+		@media screen and (max-width: 480px) {
+		margin: 30px 0;
+	}
 }
 
 .logo {
@@ -104,7 +125,9 @@ h2 {
 	background-color: rgba(255, 255, 255, .8);
 	background-repeat: no-repeat;
 	background-position: center center;
-
+	@media screen and (max-width: 480px) {
+		margin-bottom: 30px;
+	}
 }
 
 .logo p {
