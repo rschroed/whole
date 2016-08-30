@@ -11,6 +11,10 @@
 	 background-size: 25px;
 	 background-repeat: no-repeat;
 	 background-position: center center;
+	 	@media screen and (max-width: 480px) {
+			top: 20px;
+			left: 15px;;
+	}
  }
  
  .home:hover {
@@ -22,12 +26,17 @@
 	 background-color: white;
 	 padding: 100px 0;
 	 margin-bottom: 80px;
-	 box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1)
+	 box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
+	 @media screen and (max-width: 480px) {
+		padding: 80px 0;
+	}
  }
 
 .role {
 	margin: 20px 0;
 	text-align: center;
+	@media screen and (max-width: 480px) {
+	}
 }
 
 .examples {
@@ -36,6 +45,9 @@
 
 .examples .row {
 	margin-bottom: 180px;
+	@media screen and (max-width: 480px) {
+		margin-bottom: 40px;
+	}
 }
 
 .examples .row:last-of-type {
@@ -50,6 +62,9 @@
 	height: 540px;
 	background-repeat: no-repeat;
 	background-size: cover;
+	@media screen and (max-width: 480px) {
+		height: 200px;
+	}
 }
 
 .item-description {
@@ -94,15 +109,31 @@
 	font-size: 15px;
     transform: rotate(340deg);
     padding-top: 14px;
+    	@media screen and (max-width: 480px) {
+	    	float: right;
+	}
 }
 
-#next h4 {}
+#next-mobile {
+	margin-bottom: 60px;
+	background-image: url(../img/global/rule-horiz.png);
+	background-position: bottom center;
+	background-repeat: no-repeat;
+	padding-bottom: 40px;
+}
 
-#next a {
+.next h4 {
+	line-height: 100%;
+	@media screen and (max-width: 480px) {
+		margin-top: .6em;
+	}
+}
+
+.next a {
 	color: black;
 	}
 
-#next a:hover .circle {
+.next a:hover .circle {
     transform: rotate(0deg);
 }	
 	

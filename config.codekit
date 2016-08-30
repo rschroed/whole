@@ -644,15 +644,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/includes\/_cta_work.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/includes\/_cta_work.kit",
-		"outputAbbreviatedPath": "\/includes\/_cta_work.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/includes\/_footer.kit": {
 		"fileType": 2048,
 		"ignore": 1,
