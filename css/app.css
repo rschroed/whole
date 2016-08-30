@@ -207,6 +207,13 @@ h3 span {
 #cta {
   padding: 0 0 100px 0; }
 
+.volt-wrapper {
+  text-align: inherit; }
+  @media screen and (max-width: 480px) {
+    .volt-wrapper {
+      text-align: center;
+      margin-bottom: 40px; } }
+
 #cta h3 {
   font-size: 1.9em;
   letter-spacing: 0.1em; }
@@ -217,6 +224,13 @@ h3 span {
   background-color: #3ff5c2;
   display: inline-block;
   margin: 10px 10px 10px -20px; }
+  @media screen and (max-width: 480px) {
+    #cta h3 {
+      line-height: 100%;
+      -webkit-transform: rotate(-3deg);
+              transform: rotate(-3deg);
+      text-align: center;
+      margin: 0 0 20px 0; } }
 
 #cta h4 {
   font-size: 1.4em; }
