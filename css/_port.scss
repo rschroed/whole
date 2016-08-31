@@ -60,6 +60,7 @@
 .port-img {
 	border: 1px rgba(0, 0, 0, 0.1) solid;
 	box-shadow: $item-shadow;
+	position: relative;
 }
 
 .port-img img {
@@ -67,16 +68,18 @@
 }
 
 .item-description {
+/*
 	display: inline-block;
 	margin: 40px;
+*/
 	padding: 20px;
 	background-color: white;
-	position: relative;
 	border: 1px rgba(0, 0, 0, 0.1) solid;
-	
-	display: none;
-
+	position: absolute;
+	bottom: 20px;
+	left: 20px;
 }
+
 .item-description h5 {
 	font-size: 1.1em;
 	font-weight: 500;
