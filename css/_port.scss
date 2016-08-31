@@ -60,8 +60,10 @@
 .port-img {
 	border: 1px rgba(0, 0, 0, 0.1) solid;
 	box-shadow: $item-shadow;
-	background-repeat: no-repeat;
-	background-size: cover;
+}
+
+.port-img img {
+	width: 100%;
 }
 
 .item-description {
