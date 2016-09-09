@@ -60,7 +60,7 @@ h2 {
   letter-spacing: .1em;
   background-color: white;
   display: inline-block;
-  margin: -15px auto inherit auto;
+  margin-top: -10px;
   padding: 5px 10px;
   background-color: #f1f1f1;
   background-image: url(../img/global/background.png); }
@@ -244,8 +244,7 @@ h3 span {
   @media screen and (max-width: 480px) {
     #cta h3 {
       line-height: 100%;
-      -webkit-transform: rotate(-3deg);
-              transform: rotate(-3deg);
+      transform: rotate(-3deg);
       text-align: center;
       margin: 0 0 20px 0; } }
 
@@ -418,8 +417,7 @@ div.color {
   font-weight: 900;
   text-transform: uppercase;
   font-size: 15px;
-  -webkit-transform: rotate(340deg);
-          transform: rotate(340deg);
+  transform: rotate(340deg);
   padding-top: 14px; }
   @media screen and (max-width: 480px) {
     .circle {
@@ -442,7 +440,4 @@ div.color {
   color: black; }
 
 .next a:hover .circle {
-  -webkit-transform: rotate(0deg);
-          transform: rotate(0deg); }
-
-/*# sourceMappingURL=app.css.map */
+  transform: rotate(0deg); }
