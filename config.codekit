@@ -60,7 +60,7 @@
 		"outputPathIsSetByUser": 0
 		},
 	"\/css\/app.scss": {
-		"createSourceMap": 1,
+		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
@@ -71,7 +71,7 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
-		"shouldRunAutoprefixer": 1,
+		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
@@ -560,6 +560,72 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/port\/time\/08.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 138296,
+		"inputAbbreviatedPath": "\/img\/port\/time\/08.jpg",
+		"outputAbbreviatedPath": "\/img\/port\/time\/08.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/port\/time\/e-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 344696,
+		"inputAbbreviatedPath": "\/img\/port\/time\/e-01.jpg",
+		"outputAbbreviatedPath": "\/img\/port\/time\/e-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/port\/time\/rs-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 82253,
+		"inputAbbreviatedPath": "\/img\/port\/time\/rs-01.jpg",
+		"outputAbbreviatedPath": "\/img\/port\/time\/rs-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/port\/time\/rs-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 153918,
+		"inputAbbreviatedPath": "\/img\/port\/time\/rs-02.jpg",
+		"outputAbbreviatedPath": "\/img\/port\/time\/rs-02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/port\/time\/rs-03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 87102,
+		"inputAbbreviatedPath": "\/img\/port\/time\/rs-03.jpg",
+		"outputAbbreviatedPath": "\/img\/port\/time\/rs-03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/port\/time\/rs-04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65237,
+		"inputAbbreviatedPath": "\/img\/port\/time\/rs-04.jpg",
+		"outputAbbreviatedPath": "\/img\/port\/time\/rs-04.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/port\/tny\/01.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -783,24 +849,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/work\/epi\/index.kit",
 		"outputAbbreviatedPath": "\/work\/epi\/index.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/work\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/work\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/work\/index.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/work\/index.kit",
-		"outputAbbreviatedPath": "\/work\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
