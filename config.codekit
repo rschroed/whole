@@ -340,61 +340,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/port\/epi\/01.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 153761,
-		"inputAbbreviatedPath": "\/img\/port\/epi\/01.jpg",
-		"outputAbbreviatedPath": "\/img\/port\/epi\/01.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/img\/port\/epi\/02.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 360444,
-		"inputAbbreviatedPath": "\/img\/port\/epi\/02.jpg",
-		"outputAbbreviatedPath": "\/img\/port\/epi\/02.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/img\/port\/epi\/03.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 103097,
-		"inputAbbreviatedPath": "\/img\/port\/epi\/03.jpg",
-		"outputAbbreviatedPath": "\/img\/port\/epi\/03.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/port\/epi\/04.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 106477,
-		"inputAbbreviatedPath": "\/img\/port\/epi\/04.jpg",
-		"outputAbbreviatedPath": "\/img\/port\/epi\/04.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/port\/epi\/05.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 86469,
-		"inputAbbreviatedPath": "\/img\/port\/epi\/05.jpg",
-		"outputAbbreviatedPath": "\/img\/port\/epi\/05.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/port\/redacted\/01.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
