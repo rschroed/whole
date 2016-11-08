@@ -1,0 +1,106 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+	<head>
+		<title>Ryan Eilers Schroeder | Graphic &amp; UX Design</title>
+		<meta name="verify-v1" content="LSc7AMPxB/2kDYDXMn6XYOpqC5A+J9YaQh5qu/QqH3I=" />
+		<script src="http://code.jquery.com/jquery-latest.js"></script>
+		<script src="http://dev.jquery.com/view/tags/ui/latest/ui/effects.core.js"></script>
+		<script src="http://dev.jquery.com/view/tags/ui/latest/ui/effects.highlight.js"></script>
+
+		<script src="jquery.flip.js"></script>
+		
+		<script type="text/javascript">
+			$(function(){
+				
+				$("#flipPad a:not(.revert)").bind("click",function(){
+					var $this = $(this);
+					$("#flipbox").flip({
+						direction: $this.attr("rel"),
+						speed: 150,
+						color: $this.attr("rev"),
+						content: $("#back"),//(new Date()).getTime(),
+						onBefore: function(){$(".revert").show()}
+					})
+					return false;
+				});
+				
+
+				
+			});
+		</script>
+		
+		<style type="text/css" media="screen">
+		body {
+		margin: 8px;
+		}
+		
+		#flipbox {
+		position: fixed; top: 0; left: 0;
+		}
+		
+		.card {
+			width: 350px;
+			height: 200px;
+			border: 1px solid silver;
+			text-align: center;
+			font-size: 66%;
+			background-color: #efefef;
+			
+			
+     -moz-transform: rotate(-5deg);  
+       -o-transform: rotate(-5deg);  
+  -webkit-transform: rotate(-5deg);  
+      -ms-transform: rotate(-5deg);  
+          transform: rotate(-5deg);  
+			
+		}
+		
+		
+		
+		#back {
+		background-color: fuchsia;
+		}
+		
+		.shadow {
+   -moz-box-shadow:inset 0 0 10px #ddd;
+   -webkit-box-shadow:inset 0 0 10px #ddd;
+   box-shadow:inset 0 0 10px #ddd;
+
+} 
+
+.content {
+width: 40%;
+line-height: 200%;
+margin-left: 25%;
+}
+		
+		</style>
+	</head>
+	<body>
+<div id="flipPad">
+<a href="#" class="left" rel="bt" rev="#FF00FF" title="Change content as &lt;em&gt;you&lt;/em&gt; like!">Flip</a>
+</div>
+	<div id="flipbox" class="card shadow">
+	    <h2>for Graphic &amp; UX Design call</h2>
+	</div>
+
+<div style="display: none;">
+	<div id="back" class="card">
+	    <h1>206.734.5936</h1>
+	</div>
+</div>
+
+<div class="content">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas interdum arcu eu dui ullamcorper sed iaculis velit condimentum. Mauris erat erat, porttitor id vulputate in, congue ac erat. Mauris sagittis consectetur adipiscing. Quisque iaculis scelerisque nibh, ac adipiscing arcu pretium quis. Curabitur vitae laoreet mi. Sed dictum est purus, vel varius odio. Pellentesque tincidunt viverra massa, pulvinar tincidunt diam bibendum id. Pellentesque dictum suscipit elit, id eleifend neque sodales in. Phasellus mollis mauris eu nisl ullamcorper egestas. Curabitur posuere ligula non augue consequat pharetra. Nullam semper varius dui, eget aliquam elit suscipit in. Mauris aliquet consectetur ultrices. Donec risus lorem, dictum sed pellentesque ut, rhoncus in arcu. Vestibulum egestas augue at erat venenatis vitae tempus arcu luctus. Nam rutrum gravida nunc, at laoreet ipsum porta et. Praesent pharetra elit at neque tincidunt sollicitudin.
+
+Nulla ac elit sapien, in tincidunt lacus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut vulputate, massa eget fermentum ornare, orci quam porttitor massa, eu vulputate dui erat quis est. Phasellus quis risus nulla, quis sollicitudin mi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris tincidunt, velit id ultrices pharetra, ligula sem ultricies lacus, sit amet bibendum eros nibh nec risus. Ut fermentum diam venenatis orci convallis eu bibendum nisl lacinia. Nulla vulputate tellus nec nulla pretium condimentum. Phasellus non dolor enim, et ultricies dui. Suspendisse sit amet libero sem. Duis non massa et sapien bibendum sollicitudin. Donec mollis tristique nisl, id sodales ante elementum quis.
+
+Nunc dui diam, dignissim at pretium sed, faucibus feugiat tortor. Donec hendrerit dolor sed sem malesuada faucibus sed eu orci. Maecenas ullamcorper sollicitudin tristique. Maecenas facilisis commodo leo commodo ullamcorper. Maecenas augue felis, blandit a varius quis, cursus ut nisl. Praesent et nunc non nisi auctor convallis. Morbi viverra mattis nulla, eget ultrices nisl gravida ut. Pellentesque eget libero diam. Maecenas quis neque et tortor lacinia bibendum. Curabitur nec eros quis est pretium imperdiet vel et augue. Donec molestie feugiat arcu a interdum. Phasellus tempor magna ut quam pharetra tristique. Duis in malesuada enim.
+
+Pellentesque vitae lectus vitae massa congue ultricies. Phasellus in consequat lectus. Duis placerat pulvinar nulla. Aliquam ultrices pulvinar nunc, nec rutrum nibh condimentum ac. Suspendisse tempus magna vel augue rutrum aliquam. Nullam elementum massa vel lorem ultricies accumsan. Nulla ipsum mauris, eleifend nec elementum rutrum, aliquet at risus. Suspendisse luctus auctor leo non sollicitudin. Curabitur velit quam, viverra quis ullamcorper a, hendrerit vitae nibh. Curabitur metus ipsum, posuere id condimentum ac, pulvinar et leo. Integer faucibus metus eu urna venenatis id varius lorem condimentum. Praesent sed turpis magna, ac volutpat magna. Phasellus euismod suscipit ipsum, luctus vehicula nunc facilisis sit amet. Suspendisse at tincidunt ante. Mauris non orci nisi, vitae lacinia tellus. In fermentum ultrices odio sed elementum. Praesent tincidunt placerat enim nec interdum. Phasellus vel tortor nisl, quis eleifend sapien.
+
+Maecenas posuere dictum ipsum, ut condimentum tortor interdum a. Fusce est erat, pulvinar et aliquam quis, hendrerit eu tellus. Maecenas ac tortor leo, in posuere nisl. Donec quis aliquet elit. Nunc egestas lectus ornare neque commodo sed suscipit urna adipiscing. Sed ac ipsum leo, ullamcorper dignissim est. Aliquam felis diam, iaculis at aliquet adipiscing, imperdiet id purus. Morbi consectetur tincidunt placerat. Maecenas vitae laoreet tortor. Nullam auctor porta metus. Sed tristique euismod erat. Nam eu sapien justo, ut varius risus. In hac habitasse platea dictumst. Morbi bibendum quam at elit congue non auctor orci eleifend. Pellentesque nec mauris et massa condimentum placerat at et nibh. Etiam porta nibh sed ligula auctor vitae auctor augue convallis. Phasellus dictum, orci ac vestibulum sagittis, nisl est commodo erat, eu tincidunt est tellus a neque. Mauris arcu nunc, pharetra et semper et, vulputate at diam.
+</div>
+
+	</body>
+</html>
