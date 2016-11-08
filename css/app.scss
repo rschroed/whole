@@ -37,6 +37,18 @@ h1,h2,h3,h4,h5,p,div {font-family: "omnes-pro",sans-serif;}
   }
 }
 
+#archives .header {
+	background-image: url(../img/port/archives/archive-background-skull.png);
+	background-repeat: no-repeat;
+	background-position-x: 75%;
+	background-position-y: 50%;
+		@media screen and (max-width: 480px) {
+				background-position-x: 250%;
+				background-position-y: 30%;
+				background-size: 90%;
+  }
+	
+}
 
 #header h1 {
 	font-size: 4em;
@@ -49,6 +61,33 @@ h1,h2,h3,h4,h5,p,div {font-family: "omnes-pro",sans-serif;}
 		font-size: 2.4em;
 		letter-spacing: .07em;
 	}
+}
+
+#archives h1 {
+	background-color: magenta;
+	display: inline-block;
+	padding: 0px 40px;
+	color: white;
+	font-size: 6em;
+	font-style: italic;
+	font-weight: 900;
+	text-transform: uppercase;
+	margin-left: -33%;
+		@media screen and (max-width: 768px) {
+		margin-left: 0;
+		}
+		@media screen and (max-width: 480px) {
+		font-size: 2.5em;
+		margin-left: 0;
+		padding: 0px 25px;
+		}
+
+}
+
+#archives .examples img {
+	display: inline-block;
+	margin: 1%;
+	max-width: 30%;
 }
 
 h2 {
@@ -328,6 +367,10 @@ h3 {
 		margin-bottom: 0;
 }
 
+.archives {
+	font-size: .75em;
+	margin-top: 5px;
+}
 
 
 .atvImg {
