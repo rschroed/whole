@@ -349,7 +349,7 @@
 		"outputAbbreviatedPath": "\/img\/port\/epi\/01.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/port\/epi\/02.jpg": {
 		"fileType": 16384,
@@ -360,7 +360,7 @@
 		"outputAbbreviatedPath": "\/img\/port\/epi\/02.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/port\/epi\/03.jpg": {
 		"fileType": 16384,
