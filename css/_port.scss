@@ -249,3 +249,48 @@
 	margin-top: 380px;
 }	
 
+// Celeb Food
+
+#celeb-food-icon {
+	width: 200px;
+	border-radius: 12px;
+	box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.33);
+}
+
+.port-img-cf {
+	border: 1px rgba(0, 0, 0, 0.1) solid;
+	box-shadow: $item-shadow;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 620px;
+}
+
+#celeb-food-0 {
+	background-image: url(/img/port/celeb-food/sketch.jpg);
+	height: 370px;
+	}	
+
+#celeb-food-1 {
+	background-image: url(/img/port/celeb-food/0.jpg);
+	}	
+	
+#celeb-food-2 {
+	background-image: url(/img/port/celeb-food/1.jpg);
+	}
+	
+#celeb-food-3 {
+	background-image: url(/img/port/celeb-food/2.jpg);
+	}	
+	
+#celeb-food-4 {
+	background-image: url(/img/port/celeb-food/3.jpg);
+	}
+	
+#celeb-food-5 {
+	background-image: url(/img/port/celeb-food/4.jpg);
+	}	
+	
+#celeb-food-6 {
+	background-image: url(/img/port/celeb-food/6.jpg);
+	}

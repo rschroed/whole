@@ -120,35 +120,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/hulu\/Hulu_Logo_Option_A.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 22923,
-		"inputAbbreviatedPath": "\/hulu\/Hulu_Logo_Option_A.png",
-		"outputAbbreviatedPath": "\/hulu\/Hulu_Logo_Option_A.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/hulu\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/hulu\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/hulu\/index.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/hulu\/index.kit",
-		"outputAbbreviatedPath": "\/hulu\/index.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/img\/atv\/back.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -369,11 +340,110 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/port\/celeb-food\/00.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 146988,
+		"inputAbbreviatedPath": "\/img\/port\/celeb-food\/00.jpg",
+		"outputAbbreviatedPath": "\/img\/port\/celeb-food\/00.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/port\/celeb-food\/01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 149597,
+		"inputAbbreviatedPath": "\/img\/port\/celeb-food\/01.jpg",
+		"outputAbbreviatedPath": "\/img\/port\/celeb-food\/01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/port\/celeb-food\/01a.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 133961,
+		"inputAbbreviatedPath": "\/img\/port\/celeb-food\/01a.jpg",
+		"outputAbbreviatedPath": "\/img\/port\/celeb-food\/01a.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/port\/celeb-food\/02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 120973,
+		"inputAbbreviatedPath": "\/img\/port\/celeb-food\/02.jpg",
+		"outputAbbreviatedPath": "\/img\/port\/celeb-food\/02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/port\/celeb-food\/03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 97226,
+		"inputAbbreviatedPath": "\/img\/port\/celeb-food\/03.jpg",
+		"outputAbbreviatedPath": "\/img\/port\/celeb-food\/03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/port\/celeb-food\/03a.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 74588,
+		"inputAbbreviatedPath": "\/img\/port\/celeb-food\/03a.jpg",
+		"outputAbbreviatedPath": "\/img\/port\/celeb-food\/03a.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/port\/celeb-food\/04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 106428,
+		"inputAbbreviatedPath": "\/img\/port\/celeb-food\/04.jpg",
+		"outputAbbreviatedPath": "\/img\/port\/celeb-food\/04.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/port\/celeb-food\/05.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 102028,
+		"inputAbbreviatedPath": "\/img\/port\/celeb-food\/05.jpg",
+		"outputAbbreviatedPath": "\/img\/port\/celeb-food\/05.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/port\/celeb-food\/icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37608,
+		"inputAbbreviatedPath": "\/img\/port\/celeb-food\/icon.png",
+		"outputAbbreviatedPath": "\/img\/port\/celeb-food\/icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/port\/epi\/01.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 153761,
+		"initialSize": 46949,
 		"inputAbbreviatedPath": "\/img\/port\/epi\/01.jpg",
 		"outputAbbreviatedPath": "\/img\/port\/epi\/01.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -384,7 +454,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 360444,
+		"initialSize": 102268,
 		"inputAbbreviatedPath": "\/img\/port\/epi\/02.jpg",
 		"outputAbbreviatedPath": "\/img\/port\/epi\/02.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -395,7 +465,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 103097,
+		"initialSize": 103585,
 		"inputAbbreviatedPath": "\/img\/port\/epi\/03.jpg",
 		"outputAbbreviatedPath": "\/img\/port\/epi\/03.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -406,7 +476,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 106477,
+		"initialSize": 117413,
 		"inputAbbreviatedPath": "\/img\/port\/epi\/04.jpg",
 		"outputAbbreviatedPath": "\/img\/port\/epi\/04.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -417,7 +487,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 86469,
+		"initialSize": 150721,
 		"inputAbbreviatedPath": "\/img\/port\/epi\/05.jpg",
 		"outputAbbreviatedPath": "\/img\/port\/epi\/05.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -805,6 +875,24 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
+		},
+	"\/work\/celeb-food\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/work\/celeb-food\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/work\/celeb-food\/index.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/work\/celeb-food\/index.kit",
+		"outputAbbreviatedPath": "\/work\/celeb-food\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/work\/epi\/index.html": {
 		"fileType": 8192,
