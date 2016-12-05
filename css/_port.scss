@@ -11,10 +11,6 @@
 	 background-size: 25px;
 	 background-repeat: no-repeat;
 	 background-position: center center;
-	 	@media screen and (max-width: 480px) {
-			top: 20px;
-			left: 15px;;
-	}
  }
  
  .home:hover {
@@ -26,31 +22,20 @@
 	 background-color: white;
 	 padding: 100px 0;
 	 margin-bottom: 80px;
-	 box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
-	 @media screen and (max-width: 480px) {
-		padding: 80px 0;
-	}
+	 box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1)
  }
 
 .role {
 	margin: 20px 0;
 	text-align: center;
-	@media screen and (max-width: 480px) {
-	}
 }
 
 .examples {
 	margin-top: 80px;
-		@media screen and (max-width: 480px) {
-			margin-top: 40px;
-	}
 }
 
 .examples .row {
 	margin-bottom: 180px;
-	@media screen and (max-width: 480px) {
-		margin-bottom: 40px;
-	}
 }
 
 .examples .row:last-of-type {
@@ -59,27 +44,23 @@
 
 .port-img {
 	border: 1px rgba(0, 0, 0, 0.1) solid;
+	margin-right: 100px;
 	box-shadow: $item-shadow;
-	position: relative;
-}
-
-.port-img img {
 	width: 100%;
+	height: 540px;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 .item-description {
-/*
 	display: inline-block;
 	margin: 40px;
-*/
 	padding: 20px;
 	background-color: white;
+	position: relative;
 	border: 1px rgba(0, 0, 0, 0.1) solid;
-	position: absolute;
-	bottom: 20px;
-	left: 20px;
-}
 
+}
 .item-description h5 {
 	font-size: 1.1em;
 	font-weight: 500;
@@ -92,7 +73,6 @@
 .item-description p {
 	line-height: 100%;
 	margin: 0;
-
 }
 
 
@@ -114,38 +94,203 @@
 	font-size: 15px;
     transform: rotate(340deg);
     padding-top: 14px;
-	@media screen and (max-width: 480px) {
-    	float: right;
-	}
 }
 
-#next-mobile {
-	margin-bottom: 60px;
-	background-image: url(../img/global/rule-horiz.png);
-	background-position: bottom center;
-	background-repeat: no-repeat;
-	padding-bottom: 40px;
-}
+#next h4 {}
 
-.next h4 {
-	line-height: 100%;
-	@media screen and (max-width: 480px) {
-		margin-top: .6em;
-	}
-}
-
-.next a {
+#next a {
 	color: black;
 	}
 
-.next a:hover .circle {
+#next a:hover .circle {
     transform: rotate(0deg);
 }	
 	
 // Redacted
 
+
+#redacted-1 	{
+	background-image: url(/img/port/redacted/01.jpg);
+	}
+	
+#redacted-1 .scroller-item-description {
+	margin-top: 430px;
+}
+	
+#redacted-2 	{
+	background-image: url(/img/port/redacted/02.jpg);
+}
+
+#redacted-2 .scroller-item-description {
+	margin-top: 120px;
+}
+
+#redacted-3 	{
+	background-image: url(/img/port/redacted/03.jpg);
+	}
+
+#redacted-3 .scroller-item-description {
+	margin-top: 380px;
+}
+	
+#redacted-4 	{
+	background-image: url(/img/port/redacted/04.jpg);
+}
+
+#redacted-5 	{
+	background-image: url(/img/port/redacted/05.jpg);
+	}
+	
+#redacted-6 	{
+	background-image: url(/img/port/redacted/06.jpg);
+}
+
+#redacted-7 	{
+	background-image: url(/img/port/redacted/07.jpg);
+	}
+	
+#redacted-8 	{
+	background-image: url(/img/port/redacted/08.jpg);
+}
+
+#redacted-9 	{
+	background-image: url(/img/port/redacted/09.jpg);
+	}
+
+
+
 // Epicurious
+
+#epi-1 {
+	background-image: url(/img/port/epi/01.jpg);
+
+
+}
+
+#epi-2 {
+	background-image: url(/img/port/epi/02.jpg);
+}
+
+#epi-3 {
+	background-image: url(/img/port/epi/03.jpg);
+	height: 729px;	
+}
+
+#epi-4 {
+	background-image: url(/img/port/epi/04.jpg);
+	height: 729px;	
+}
+
+#epi-5 {
+	background-image: url(/img/port/epi/05.jpg);
+	height: 729px;
+}
 
 // Time
 
+
+#time-wrapper {width: 10000px;}
+
+#time-1 {
+	background-image: url(/img/port/time/01.jpg);	
+}
+
+#time-2 {
+	background-image: url(/img/port/time/02.jpg);	
+}
+
+#time-3 {
+	background-image: url(/img/port/time/03.jpg);	
+}
+
+#time-4 {
+	background-image: url(/img/port/time/04.jpg);	
+}
+
+#time-5 {
+	background-image: url(/img/port/time/05.jpg);	
+}
+
+#time-6 {
+	background-image: url(/img/port/time/06.jpg);	
+}
+
+#time-7 {
+	background-image: url(/img/port/time/07.jpg);	
+}
+
+#time-8 {
+	background-image: url(/img/port/time/08.jpg);	
+}
+
 // TNY
+
+#tny-1 {
+	background-image: url(/img/port/tny/01.png);
+	}
+
+#tny-2 {
+	background-image: url(/img/port/tny/02.png);
+	}
+
+#tny-2 .scroller-item-description {
+	margin-top: 300px;
+}
+
+#tny-3 {
+	background-image: url(/img/port/tny/03.jpg);
+	}
+
+#tny-4 {
+	background-image: url(/img/port/tny/04.jpg);
+	}
+	
+#tny-4 .scroller-item-description {
+	margin-top: 380px;
+}	
+
+// Celeb Food
+
+#celeb-food-icon {
+	width: 200px;
+	border-radius: 12px;
+	box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.33);
+}
+
+.port-img-cf {
+	border: 1px rgba(0, 0, 0, 0.1) solid;
+	box-shadow: $item-shadow;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 620px;
+}
+
+#celeb-food-0 {
+	background-image: url(/img/port/celeb-food/sketch.jpg);
+	height: 370px;
+	}	
+
+#celeb-food-1 {
+	background-image: url(/img/port/celeb-food/0.jpg);
+	}	
+	
+#celeb-food-2 {
+	background-image: url(/img/port/celeb-food/1.jpg);
+	}
+	
+#celeb-food-3 {
+	background-image: url(/img/port/celeb-food/2.jpg);
+	}	
+	
+#celeb-food-4 {
+	background-image: url(/img/port/celeb-food/3.jpg);
+	}
+	
+#celeb-food-5 {
+	background-image: url(/img/port/celeb-food/4.jpg);
+	}	
+	
+#celeb-food-6 {
+	background-image: url(/img/port/celeb-food/6.jpg);
+	}
