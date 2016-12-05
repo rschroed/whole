@@ -9,6 +9,12 @@
 	],
 "creatorBuild": "25444",
 "files": {
+	"\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.gitignore",
+		"oF": 0
+		},
 	"\/archives\/1.jpg": {
 		"ft": 16384,
 		"iS": 23327,
@@ -95,7 +101,7 @@
 		"oA": 0,
 		"oAP": "\/archives\/all.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/archives\/apt_1.gif": {
 		"ft": 4194304,
@@ -359,7 +365,7 @@
 		"oA": 0,
 		"oAP": "\/archives\/eleweb_2.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/archives\/eleweb_3.jpg": {
 		"ft": 16384,
@@ -709,6 +715,14 @@
 		"oF": 0,
 		"opt": 1
 		},
+	"\/archives\/sea\/flightsim1.jpg": {
+		"ft": 16384,
+		"iS": 54320,
+		"oA": 0,
+		"oAP": "\/archives\/sea\/flightsim1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/archives\/sea\/flightsim2.jpg": {
 		"ft": 16384,
 		"iS": 55345,
@@ -865,13 +879,23 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/css\/foundation-flex.css": {
+	"\/css\/foundation-flex-min.css": {
 		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
-		"oAP": "\/css\/foundation-flex-min.css",
+		"oA": 2,
+		"oAP": "\/css\/foundation-flex-min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/css\/foundation-rtl-min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/css\/foundation-rtl-min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -1073,6 +1097,76 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/img\/port\/celeb-food\/0.jpg": {
+		"ft": 16384,
+		"iS": 111622,
+		"oA": 0,
+		"oAP": "\/img\/port\/celeb-food\/0.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/port\/celeb-food\/1.jpg": {
+		"ft": 16384,
+		"iS": 130749,
+		"oA": 0,
+		"oAP": "\/img\/port\/celeb-food\/1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/port\/celeb-food\/2.jpg": {
+		"ft": 16384,
+		"iS": 109028,
+		"oA": 0,
+		"oAP": "\/img\/port\/celeb-food\/2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/port\/celeb-food\/3.jpg": {
+		"ft": 16384,
+		"iS": 70392,
+		"oA": 0,
+		"oAP": "\/img\/port\/celeb-food\/3.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/port\/celeb-food\/4.jpg": {
+		"ft": 16384,
+		"iS": 79536,
+		"oA": 0,
+		"oAP": "\/img\/port\/celeb-food\/4.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/port\/celeb-food\/6.jpg": {
+		"ft": 16384,
+		"iS": 73808,
+		"oA": 0,
+		"oAP": "\/img\/port\/celeb-food\/6.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/port\/celeb-food\/celeb-food.psd": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/img\/port\/celeb-food\/celeb-food.psd",
+		"oF": 0
+		},
+	"\/img\/port\/celeb-food\/icon.png": {
+		"ft": 32768,
+		"iS": 34178,
+		"oA": 0,
+		"oAP": "\/img\/port\/celeb-food\/icon.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/port\/celeb-food\/sketch.jpg": {
+		"ft": 16384,
+		"iS": 100469,
+		"oA": 0,
+		"oAP": "\/img\/port\/celeb-food\/sketch.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/img\/port\/epi\/01.jpg": {
 		"ft": 16384,
 		"iS": 46949,
@@ -1231,7 +1325,7 @@
 		"oA": 0,
 		"oAP": "\/img\/port\/time\/05.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/img\/port\/time\/06.jpg": {
 		"ft": 16384,
@@ -1457,6 +1551,18 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/ryan-schroeder-resume.pdf",
+		"oF": 0
+		},
+	"\/work\/celeb-food\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/work\/celeb-food\/index.html",
+		"oF": 0
+		},
+	"\/work\/celeb-food\/index.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/work\/celeb-food\/index.html",
 		"oF": 0
 		},
 	"\/work\/epi\/index.html": {
