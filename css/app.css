@@ -512,4 +512,177 @@ div.color {
   box-shadow: 0px 20px 30px -20px rgba(0, 0, 0, 0.1), -20px 20px 30px -20px rgba(0, 0, 0, 0.1);
   background-repeat: no-repeat;
   background-size: cover; }
+
+#chef-steps .header {
+  background-image: url(/img/chef-steps/background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center 32%;
+  height: 600px; }
+  @media screen and (max-width: 480px) {
+    #chef-steps .header {
+      background-position: center 32%;
+      height: 460px; } }
+
+h1 {
+  margin-top: 100px; }
+
+.row-headshot {
+  margin-top: 140px; }
+
+.headshot {
+  border: 3px solid white;
+  border-radius: 100px;
+  box-shadow: 0px 0px 0px black;
+  position: relative;
+  bottom: 0px;
+  box-shadow: 0px 20px 30px -20px rgba(0, 0, 0, 0.1), -20px 20px 30px -20px rgba(0, 0, 0, 0.1); }
+
+.intro {
+  border-left: 3px  solid #d9d9d9;
+  padding-left: 20px;
+  padding-right: 30px;
+  font-size: .9em; }
+
+.casestudies {
+  background: white;
+  margin: 40px 0;
+  padding-top: 40px;
+  box-shadow: 0px 20px 30px -20px rgba(0, 0, 0, 0.1), -20px 20px 30px -20px rgba(0, 0, 0, 0.1); }
+  @media screen and (max-width: 480px) {
+    .casestudies {
+      padding-bottom: 40px; } }
+
+.cs-thumb {
+  height: 340px;
+  margin-top: 40px; }
+  @media screen and (max-width: 480px) {
+    .cs-thumb {
+      height: 180px; } }
+
+.cs-thumb-epi {
+  background-image: url(/img/port/epi/02.jpg);
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center top; }
+
+.cs-thumb-cf {
+  background-image: url(/img/port/celeb-food/cs-thumb-cf.jpg);
+  background-size: 75%;
+  background-repeat: no-repeat;
+  background-position: center top; }
+
+.cs-row a {
+  color: black; }
+
+.cs-thumb h4 {
+  display: inline-block;
+  background-color: #3ff5c2;
+  padding: 10px 18px;
+  font-style: italic;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: relative; }
+
+.cs-thumb-epi h4 {
+  top: 50px;
+  left: -70px; }
+  @media screen and (max-width: 480px) {
+    .cs-thumb-epi h4 {
+      top: 90px;
+      left: -30px; } }
+
+.cs-thumb-cf h4 {
+  top: 160px;
+  left: -10px; }
+  @media screen and (max-width: 480px) {
+    .cs-thumb-cf h4 {
+      top: 90px;
+      left: 180px; } }
+
+.idea-header img {
+  margin: 60px 0px 60px 0px; }
+
+.free-ideas {
+  box-shadow: 0px 20px 30px -20px rgba(0, 0, 0, 0.1), -20px 20px 30px -20px rgba(0, 0, 0, 0.1); }
+
+.free-ideas p {
+  font-size: 1.2em; }
+
+.free-ideas h5 {
+  color: white;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1em; }
+
+.free-ideas h4 {
+  display: inline-block;
+  background-color: #3ff5c2;
+  padding: 10px 18px;
+  font-style: italic;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: relative; }
+
+.idea-one {
+  padding-top: 40px; }
+
+.idea-one p {
+  color: white; }
+
+.idea-one {
+  background-color: black;
+  margin-top: 40px; }
+
+.cs-widget-img {
+  height: 350px;
+  background-image: url(/img/chef-steps/widget.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center bottom; }
+
+.remote-header {
+  height: 380px;
+  padding-top: 40px;
+  background-image: url(/img/chef-steps/remote-header.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 80% bottom; }
+  @media screen and (max-width: 480px) {
+    .remote-header {
+      height: 330px;
+      background-size: 120%;
+      background-position: left bottom; } }
+
+.remote-header h5 {
+  color: black; }
+
+.remote-content-background {
+  background-color: white; }
+
+.remote-content {
+  background-color: white;
+  padding: 40px 0; }
+
+.remote-content p {
+  font-size: 1em; }
+
+strong {
+  font-weight: 600; }
+
+.cs-remote-sketch {
+  height: 380px;
+  background-image: url(/img/chef-steps/remote-sketch.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right bottom; }
+
+#close {
+  padding-top: 80px; }
+
+.close-header {
+  margin-bottom: 40px; }
+
+#close p {
+  font-size: 1.2em; }
 /*# sourceMappingURL=app.css.map */

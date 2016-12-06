@@ -747,6 +747,18 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/chef-steps\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/chef-steps\/index.html",
+		"oF": 0
+		},
+	"\/chef-steps\/index.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/chef-steps\/index.html",
+		"oF": 0
+		},
 	"\/css\/.sass-cache\/1bebfdd57b4c52335446868b40d903f7bda23938\/_hulu.scssc": {
 		"ft": 8192,
 		"oA": 1,
@@ -800,6 +812,19 @@
 		"oA": 2,
 		"oAP": "\/css\/.sass-cache\/9cb8adecf966e5e66767a4568da173c208847e1c\/app.scssc",
 		"oF": 0
+		},
+	"\/css\/_cs.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/_cs.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
 		},
 	"\/css\/_hulu.scss": {
 		"aP": 0,
@@ -950,6 +975,68 @@
 		"iS": 114185,
 		"oA": 0,
 		"oAP": "\/img\/atv\/kloc-icon-flattened.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/chef-steps\/background.jpg": {
+		"ft": 16384,
+		"iS": 129616,
+		"oA": 0,
+		"oAP": "\/img\/chef-steps\/background.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/chef-steps\/bell.png": {
+		"ft": 32768,
+		"iS": 31218,
+		"oA": 0,
+		"oAP": "\/img\/chef-steps\/bell.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/chef-steps\/cs-back-cf.jpg": {
+		"ft": 16384,
+		"iS": 140468,
+		"oA": 0,
+		"oAP": "\/img\/chef-steps\/cs-back-cf.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/chef-steps\/hello-type.psd": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/img\/chef-steps\/hello-type.psd",
+		"oF": 0
+		},
+	"\/img\/chef-steps\/hello.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/img\/chef-steps\/hello.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/img\/chef-steps\/remote-header.png": {
+		"ft": 32768,
+		"iS": 369659,
+		"oA": 0,
+		"oAP": "\/img\/chef-steps\/remote-header.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/chef-steps\/remote-sketch.png": {
+		"ft": 32768,
+		"iS": 81886,
+		"oA": 0,
+		"oAP": "\/img\/chef-steps\/remote-sketch.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/chef-steps\/widget.jpg": {
+		"ft": 16384,
+		"iS": 59861,
+		"oA": 0,
+		"oAP": "\/img\/chef-steps\/widget.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1145,11 +1232,25 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/img\/port\/celeb-food\/celeb-food-casestudy-thumb.psd": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/img\/port\/celeb-food\/celeb-food-casestudy-thumb.psd",
+		"oF": 0
+		},
 	"\/img\/port\/celeb-food\/celeb-food.psd": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/img\/port\/celeb-food\/celeb-food.psd",
 		"oF": 0
+		},
+	"\/img\/port\/celeb-food\/cs-thumb-cf.jpg": {
+		"ft": 16384,
+		"iS": 99666,
+		"oA": 0,
+		"oAP": "\/img\/port\/celeb-food\/cs-thumb-cf.jpg",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/img\/port\/celeb-food\/icon.png": {
 		"ft": 32768,
