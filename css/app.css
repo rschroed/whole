@@ -374,6 +374,10 @@ div.color {
   background-size: 25px;
   background-repeat: no-repeat;
   background-position: center center; }
+  @media screen and (max-width: 480px) {
+    .home {
+      top: 20px;
+      left: 15px; } }
 
 .home:hover {
   background-color: #3ff5c2;
@@ -384,6 +388,9 @@ div.color {
   padding: 100px 0;
   margin-bottom: 80px;
   box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1); }
+  @media screen and (max-width: 480px) {
+    .header {
+      padding: 80px 0; } }
 
 .role {
   margin: 20px 0;
@@ -391,29 +398,38 @@ div.color {
 
 .examples {
   margin-top: 80px; }
+  @media screen and (max-width: 480px) {
+    .examples {
+      margin-top: 40px; } }
 
 .examples .row {
   margin-bottom: 180px; }
+  @media screen and (max-width: 480px) {
+    .examples .row {
+      margin-bottom: 40px; } }
 
 .examples .row:last-of-type {
   margin-bottom: 40px; }
 
 .port-img {
   border: 1px rgba(0, 0, 0, 0.1) solid;
-  margin-right: 100px;
   box-shadow: 0px 20px 30px -20px rgba(0, 0, 0, 0.1), -20px 20px 30px -20px rgba(0, 0, 0, 0.1);
-  width: 100%;
-  height: 540px;
-  background-repeat: no-repeat;
-  background-size: cover; }
+  position: relative; }
+
+.port-img img {
+  width: 100%; }
 
 .item-description {
-  display: inline-block;
-  margin: 40px;
+  /*
+	display: inline-block;
+	margin: 40px;
+*/
   padding: 20px;
   background-color: white;
-  position: relative;
-  border: 1px rgba(0, 0, 0, 0.1) solid; }
+  border: 1px rgba(0, 0, 0, 0.1) solid;
+  position: absolute;
+  bottom: 20px;
+  left: 20px; }
 
 .item-description h5 {
   font-size: 1.1em;
@@ -444,11 +460,27 @@ div.color {
   -webkit-transform: rotate(340deg);
           transform: rotate(340deg);
   padding-top: 14px; }
+  @media screen and (max-width: 480px) {
+    .circle {
+      float: right; } }
 
-#next a {
+#next-mobile {
+  margin-bottom: 60px;
+  background-image: url(../img/global/rule-horiz.png);
+  background-position: bottom center;
+  background-repeat: no-repeat;
+  padding-bottom: 40px; }
+
+.next h4 {
+  line-height: 100%; }
+  @media screen and (max-width: 480px) {
+    .next h4 {
+      margin-top: .6em; } }
+
+.next a {
   color: black; }
 
-#next a:hover .circle {
+.next a:hover .circle {
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg); }
 
