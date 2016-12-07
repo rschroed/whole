@@ -544,6 +544,14 @@ h1 {
   padding-right: 30px;
   font-size: .9em; }
 
+.blurb p {
+  text-align: center; }
+
+.blurb span {
+  display: block;
+  margin: 0 10px;
+  color: #999; }
+
 .casestudies {
   background: white;
   margin: 40px 0;
