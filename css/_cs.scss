@@ -35,12 +35,16 @@ h1 {
 	font-size: .9em
 }
 
+.blurb {
+	margin-top: 20px;
+}
+
 .blurb p {
 text-align: center;
 }
 
 .blurb span {
-	display: block;
+	display: inline-block;
 	margin: 0 10px;
 	color: #999;
 }
@@ -213,3 +217,6 @@ strong {
 #close p {
 	font-size: 1.2em;
 }
+
+
+strike {opacity: .5;}
