@@ -15,6 +15,18 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
+	"\/amzn\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/amzn\/index.html",
+		"oF": 0
+		},
+	"\/amzn\/index.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/amzn\/index.html",
+		"oF": 0
+		},
 	"\/archives\/1.jpg": {
 		"ft": 16384,
 		"iS": 23327,
@@ -813,6 +825,19 @@
 		"oAP": "\/css\/.sass-cache\/9cb8adecf966e5e66767a4568da173c208847e1c\/app.scssc",
 		"oF": 0
 		},
+	"\/css\/_amzn.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/_amzn.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/css\/_cs.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -953,6 +978,24 @@
 		"oAP": "\/css\/foundation.min-min.css",
 		"oF": 0,
 		"oS": 0
+		},
+	"\/img\/amzn\/fs-logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/amzn\/fs-logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/amzn\/haystack.png": {
+		"ft": 32768,
+		"iS": 267548,
+		"oA": 0,
+		"oAP": "\/img\/amzn\/haystack.png",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/img\/atv\/back.png": {
 		"ft": 32768,
