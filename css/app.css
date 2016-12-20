@@ -538,13 +538,14 @@ h1 {
   padding-right: 30px;
   font-size: .9em; }
 
-.blurb {
-  margin-top: 20px; }
+#chef-steps .blurb {
+  margin-top: 20px;
+  font-size: 1em; }
 
-.blurb p {
+#chef-steps .blurb p {
   text-align: center; }
 
-.blurb span {
+#chef-steps .blurb span {
   display: inline-block;
   margin: 0 10px;
   color: #999; }
@@ -682,7 +683,7 @@ strong {
   background-repeat: no-repeat;
   background-position: right bottom; }
 
-#close {
+#chef-steps #close {
   padding-top: 80px; }
 
 .close-header {
