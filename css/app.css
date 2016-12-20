@@ -496,12 +496,6 @@ div.color {
 #time-wrapper {
   width: 10000px; }
 
-#tny-2 .scroller-item-description {
-  margin-top: 300px; }
-
-#tny-4 .scroller-item-description {
-  margin-top: 380px; }
-
 #celeb-food-icon {
   width: 200px;
   border-radius: 12px;
@@ -761,10 +755,24 @@ h1 {
   background-position: center top; }
 
 .amzn-thumb-tny h4 {
-  top: 100px;
-  left: -70px; }
+  top: 30px;
+  left: 240px; }
   @media screen and (max-width: 480px) {
     .amzn-thumb-tny h4 {
+      top: 90px;
+      left: -30px; } }
+
+.amzn-thumb-evri {
+  background-image: url(/img/port/evri/evri-thumb.jpg);
+  background-size: 75%;
+  background-repeat: no-repeat;
+  background-position: center top; }
+
+.amzn-thumb-evri h4 {
+  top: 180px;
+  right: 0; }
+  @media screen and (max-width: 480px) {
+    .amzn-thumb-evri h4 {
       top: 90px;
       left: -30px; } }
 
@@ -775,8 +783,8 @@ h1 {
   background-position: center top; }
 
 .amzn-thumb-summit h4 {
-  top: 100px;
-  left: -70px; }
+  top: 120px;
+  left: 0; }
   @media screen and (max-width: 480px) {
     .amzn-thumb-summit h4 {
       top: 90px;

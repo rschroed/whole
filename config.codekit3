@@ -1155,6 +1155,14 @@
 		"oF": 0,
 		"opt": 1
 		},
+	"\/img\/logos\/evri-2.png": {
+		"ft": 32768,
+		"iS": 14141,
+		"oA": 0,
+		"oAP": "\/img\/logos\/evri-2.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/img\/logos\/evri.png": {
 		"ft": 32768,
 		"iS": 6128,
@@ -1367,6 +1375,86 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/img\/port\/evri\/00.png": {
+		"ft": 32768,
+		"iS": 356321,
+		"oA": 0,
+		"oAP": "\/img\/port\/evri\/00.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/port\/evri\/01.jpg": {
+		"ft": 16384,
+		"iS": 112916,
+		"oA": 0,
+		"oAP": "\/img\/port\/evri\/01.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/port\/evri\/02.png": {
+		"ft": 32768,
+		"iS": 302840,
+		"oA": 0,
+		"oAP": "\/img\/port\/evri\/02.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/port\/evri\/03.png": {
+		"ft": 32768,
+		"iS": 164915,
+		"oA": 0,
+		"oAP": "\/img\/port\/evri\/03.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/port\/evri\/04.jpg": {
+		"ft": 16384,
+		"iS": 240972,
+		"oA": 0,
+		"oAP": "\/img\/port\/evri\/04.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/port\/evri\/05.jpg": {
+		"ft": 16384,
+		"iS": 143919,
+		"oA": 0,
+		"oAP": "\/img\/port\/evri\/05.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/port\/evri\/06.jpg": {
+		"ft": 16384,
+		"iS": 219259,
+		"oA": 0,
+		"oAP": "\/img\/port\/evri\/06.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/port\/evri\/07.jpg": {
+		"ft": 16384,
+		"iS": 270765,
+		"oA": 0,
+		"oAP": "\/img\/port\/evri\/07.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/port\/evri\/Evri-4-ChannelChooser.jpg": {
+		"ft": 16384,
+		"iS": 142998,
+		"oA": 0,
+		"oAP": "\/img\/port\/evri\/Evri-4-ChannelChooser.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/port\/evri\/evri-thumb.jpg": {
+		"ft": 16384,
+		"iS": 226425,
+		"oA": 0,
+		"oAP": "\/img\/port\/evri\/evri-thumb.jpg",
+		"oF": 0,
+		"opt": 1
+		},
 	"\/img\/port\/redacted\/01.jpg": {
 		"ft": 16384,
 		"iS": 166943,
@@ -1575,6 +1663,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/img\/port\/tny\/01a.jpg": {
+		"ft": 16384,
+		"iS": 213769,
+		"oA": 0,
+		"oAP": "\/img\/port\/tny\/01a.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/img\/port\/tny\/02.png": {
 		"ft": 32768,
 		"iS": 48554,
@@ -1775,6 +1871,18 @@
 		"ft": 2048,
 		"oA": 0,
 		"oAP": "\/work\/epi\/index.html",
+		"oF": 0
+		},
+	"\/work\/evri\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/work\/evri\/index.html",
+		"oF": 0
+		},
+	"\/work\/evri\/index.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/work\/evri\/index.html",
 		"oF": 0
 		},
 	"\/work\/redacted\/index.html": {
