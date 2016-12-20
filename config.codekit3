@@ -15,6 +15,18 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
+	"\/amzn\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/amzn\/index.html",
+		"oF": 0
+		},
+	"\/amzn\/index.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/amzn\/index.html",
+		"oF": 0
+		},
 	"\/archives\/1.jpg": {
 		"ft": 16384,
 		"iS": 23327,
@@ -813,6 +825,19 @@
 		"oAP": "\/css\/.sass-cache\/9cb8adecf966e5e66767a4568da173c208847e1c\/app.scssc",
 		"oF": 0
 		},
+	"\/css\/_amzn.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/_amzn.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/css\/_cs.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -953,6 +978,40 @@
 		"oAP": "\/css\/foundation.min-min.css",
 		"oF": 0,
 		"oS": 0
+		},
+	"\/img\/amzn\/background.jpg": {
+		"ft": 16384,
+		"iS": 117170,
+		"oA": 0,
+		"oAP": "\/img\/amzn\/background.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/img\/amzn\/fs-logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/amzn\/fs-logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/amzn\/haystack.png": {
+		"ft": 32768,
+		"iS": 267548,
+		"oA": 0,
+		"oAP": "\/img\/amzn\/haystack.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/amzn\/hello-type.png": {
+		"ft": 32768,
+		"iS": 169528,
+		"oA": 0,
+		"oAP": "\/img\/amzn\/hello-type.png",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/img\/atv\/back.png": {
 		"ft": 32768,
@@ -1095,6 +1154,14 @@
 		"oAP": "\/img\/logos\/epi.png",
 		"oF": 0,
 		"opt": 1
+		},
+	"\/img\/logos\/evri-2.png": {
+		"ft": 32768,
+		"iS": 14141,
+		"oA": 0,
+		"oAP": "\/img\/logos\/evri-2.png",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/img\/logos\/evri.png": {
 		"ft": 32768,
@@ -1308,6 +1375,86 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/img\/port\/evri\/00.png": {
+		"ft": 32768,
+		"iS": 356321,
+		"oA": 0,
+		"oAP": "\/img\/port\/evri\/00.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/port\/evri\/01.jpg": {
+		"ft": 16384,
+		"iS": 112916,
+		"oA": 0,
+		"oAP": "\/img\/port\/evri\/01.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/port\/evri\/02.png": {
+		"ft": 32768,
+		"iS": 302840,
+		"oA": 0,
+		"oAP": "\/img\/port\/evri\/02.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/port\/evri\/03.png": {
+		"ft": 32768,
+		"iS": 164915,
+		"oA": 0,
+		"oAP": "\/img\/port\/evri\/03.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/port\/evri\/04.jpg": {
+		"ft": 16384,
+		"iS": 240972,
+		"oA": 0,
+		"oAP": "\/img\/port\/evri\/04.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/port\/evri\/05.jpg": {
+		"ft": 16384,
+		"iS": 143919,
+		"oA": 0,
+		"oAP": "\/img\/port\/evri\/05.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/port\/evri\/06.jpg": {
+		"ft": 16384,
+		"iS": 219259,
+		"oA": 0,
+		"oAP": "\/img\/port\/evri\/06.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/port\/evri\/07.jpg": {
+		"ft": 16384,
+		"iS": 270765,
+		"oA": 0,
+		"oAP": "\/img\/port\/evri\/07.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/port\/evri\/Evri-4-ChannelChooser.jpg": {
+		"ft": 16384,
+		"iS": 142998,
+		"oA": 0,
+		"oAP": "\/img\/port\/evri\/Evri-4-ChannelChooser.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/port\/evri\/evri-thumb.jpg": {
+		"ft": 16384,
+		"iS": 226425,
+		"oA": 0,
+		"oAP": "\/img\/port\/evri\/evri-thumb.jpg",
+		"oF": 0,
+		"opt": 1
+		},
 	"\/img\/port\/redacted\/01.jpg": {
 		"ft": 16384,
 		"iS": 166943,
@@ -1385,6 +1532,14 @@
 		"iS": 41812,
 		"oA": 0,
 		"oAP": "\/img\/port\/redacted\/10.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/port\/redacted\/redacted-thumb.jpg": {
+		"ft": 16384,
+		"iS": 38104,
+		"oA": 0,
+		"oAP": "\/img\/port\/redacted\/redacted-thumb.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1492,11 +1647,27 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/img\/port\/time\/time-thumb.jpg": {
+		"ft": 16384,
+		"iS": 69302,
+		"oA": 0,
+		"oAP": "\/img\/port\/time\/time-thumb.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/img\/port\/tny\/01.png": {
 		"ft": 32768,
 		"iS": 42726,
 		"oA": 0,
 		"oAP": "\/img\/port\/tny\/01.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/port\/tny\/01a.jpg": {
+		"ft": 16384,
+		"iS": 213769,
+		"oA": 0,
+		"oAP": "\/img\/port\/tny\/01a.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1523,6 +1694,30 @@
 		"oAP": "\/img\/port\/tny\/04.jpg",
 		"oF": 0,
 		"opt": 1
+		},
+	"\/img\/port\/tny\/research-2.jpg": {
+		"ft": 16384,
+		"iS": 166701,
+		"oA": 0,
+		"oAP": "\/img\/port\/tny\/research-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/port\/tny\/research.jpg": {
+		"ft": 16384,
+		"iS": 135673,
+		"oA": 0,
+		"oAP": "\/img\/port\/tny\/research.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/port\/tny\/tny-thumb.jpg": {
+		"ft": 16384,
+		"iS": 46334,
+		"oA": 0,
+		"oAP": "\/img\/port\/tny\/tny-thumb.jpg",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/img\/res.png": {
 		"ft": 32768,
@@ -1676,6 +1871,18 @@
 		"ft": 2048,
 		"oA": 0,
 		"oAP": "\/work\/epi\/index.html",
+		"oF": 0
+		},
+	"\/work\/evri\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/work\/evri\/index.html",
+		"oF": 0
+		},
+	"\/work\/evri\/index.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/work\/evri\/index.html",
 		"oF": 0
 		},
 	"\/work\/redacted\/index.html": {
