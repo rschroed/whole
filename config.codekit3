@@ -979,6 +979,14 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/img\/amzn\/background.jpg": {
+		"ft": 16384,
+		"iS": 117170,
+		"oA": 0,
+		"oAP": "\/img\/amzn\/background.jpg",
+		"oF": 0,
+		"opt": 1
+		},
 	"\/img\/amzn\/fs-logo.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -994,6 +1002,14 @@
 		"iS": 267548,
 		"oA": 0,
 		"oAP": "\/img\/amzn\/haystack.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/amzn\/hello-type.png": {
+		"ft": 32768,
+		"iS": 169528,
+		"oA": 0,
+		"oAP": "\/img\/amzn\/hello-type.png",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1431,6 +1447,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/img\/port\/redacted\/redacted-thumb.jpg": {
+		"ft": 16384,
+		"iS": 38104,
+		"oA": 0,
+		"oAP": "\/img\/port\/redacted\/redacted-thumb.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/img\/port\/time\/01.jpg": {
 		"ft": 16384,
 		"iS": 2802400,
@@ -1535,6 +1559,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/img\/port\/time\/time-thumb.jpg": {
+		"ft": 16384,
+		"iS": 69302,
+		"oA": 0,
+		"oAP": "\/img\/port\/time\/time-thumb.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/img\/port\/tny\/01.png": {
 		"ft": 32768,
 		"iS": 42726,
@@ -1566,6 +1598,30 @@
 		"oAP": "\/img\/port\/tny\/04.jpg",
 		"oF": 0,
 		"opt": 1
+		},
+	"\/img\/port\/tny\/research-2.jpg": {
+		"ft": 16384,
+		"iS": 166701,
+		"oA": 0,
+		"oAP": "\/img\/port\/tny\/research-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/port\/tny\/research.jpg": {
+		"ft": 16384,
+		"iS": 135673,
+		"oA": 0,
+		"oAP": "\/img\/port\/tny\/research.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/port\/tny\/tny-thumb.jpg": {
+		"ft": 16384,
+		"iS": 46334,
+		"oA": 0,
+		"oAP": "\/img\/port\/tny\/tny-thumb.jpg",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/img\/res.png": {
 		"ft": 32768,
