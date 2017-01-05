@@ -578,6 +578,9 @@ h1 {
   background-repeat: no-repeat;
   background-position: center top; }
 
+.time-item {
+  margin: 30px 0; }
+
 .cs-row a {
   color: black; }
 

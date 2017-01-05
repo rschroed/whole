@@ -1186,6 +1186,30 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/img\/chef-steps\/time-ck-01.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/img\/chef-steps\/time-ck-01.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/chef-steps\/time-ck-02.png": {
+		"ft": 32768,
+		"iS": 278905,
+		"oA": 0,
+		"oAP": "\/img\/chef-steps\/time-ck-02.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/img\/chef-steps\/time-ck-03.png": {
+		"ft": 32768,
+		"iS": 319571,
+		"oA": 0,
+		"oAP": "\/img\/chef-steps\/time-ck-03.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/img\/chef-steps\/widget.jpg": {
 		"ft": 16384,
 		"iS": 59861,
