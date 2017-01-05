@@ -15,6 +15,18 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
+	"\/allrecipes\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/allrecipes\/index.html",
+		"oF": 0
+		},
+	"\/allrecipes\/index.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/allrecipes\/index.html",
+		"oF": 0
+		},
 	"\/amzn\/index.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -838,6 +850,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/css\/_ar.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/_ar.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/css\/_cs.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -978,6 +1003,76 @@
 		"oAP": "\/css\/foundation.min-min.css",
 		"oF": 0,
 		"oS": 0
+		},
+	"\/img\/allrecipes\/background.jpg": {
+		"ft": 16384,
+		"iS": 129616,
+		"oA": 0,
+		"oAP": "\/img\/allrecipes\/background.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/allrecipes\/bell.png": {
+		"ft": 32768,
+		"iS": 31218,
+		"oA": 0,
+		"oAP": "\/img\/allrecipes\/bell.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/allrecipes\/cs-back-cf.jpg": {
+		"ft": 16384,
+		"iS": 140468,
+		"oA": 0,
+		"oAP": "\/img\/allrecipes\/cs-back-cf.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/allrecipes\/hello-type.png": {
+		"ft": 32768,
+		"iS": 112214,
+		"oA": 0,
+		"oAP": "\/img\/allrecipes\/hello-type.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/allrecipes\/hello-type.psd": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/img\/allrecipes\/hello-type.psd",
+		"oF": 0
+		},
+	"\/img\/allrecipes\/hello.png": {
+		"ft": 32768,
+		"iS": 46906,
+		"oA": 0,
+		"oAP": "\/img\/allrecipes\/hello.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/allrecipes\/remote-header.png": {
+		"ft": 32768,
+		"iS": 369659,
+		"oA": 0,
+		"oAP": "\/img\/allrecipes\/remote-header.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/allrecipes\/remote-sketch.png": {
+		"ft": 32768,
+		"iS": 81886,
+		"oA": 0,
+		"oAP": "\/img\/allrecipes\/remote-sketch.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/allrecipes\/widget.jpg": {
+		"ft": 16384,
+		"iS": 59861,
+		"oA": 0,
+		"oAP": "\/img\/allrecipes\/widget.jpg",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/img\/amzn\/background.jpg": {
 		"ft": 16384,
