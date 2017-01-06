@@ -902,6 +902,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/css\/_suplari.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/_suplari.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/css\/_work.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1188,7 +1201,7 @@
 		},
 	"\/img\/chef-steps\/time-ck-01.png": {
 		"ft": 32768,
-		"iS": 0,
+		"iS": 215317,
 		"oA": 0,
 		"oAP": "\/img\/chef-steps\/time-ck-01.png",
 		"oF": 0,
@@ -1196,11 +1209,11 @@
 		},
 	"\/img\/chef-steps\/time-ck-02.png": {
 		"ft": 32768,
-		"iS": 278905,
+		"iS": 298149,
 		"oA": 0,
 		"oAP": "\/img\/chef-steps\/time-ck-02.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/img\/chef-steps\/time-ck-03.png": {
 		"ft": 32768,
