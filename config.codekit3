@@ -876,6 +876,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/css\/_fb.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/_fb.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/css\/_hulu.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1003,6 +1016,18 @@
 		"oAP": "\/css\/foundation.min-min.css",
 		"oF": 0,
 		"oS": 0
+		},
+	"\/fb\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fb\/index.html",
+		"oF": 0
+		},
+	"\/fb\/index.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/fb\/index.html",
+		"oF": 0
 		},
 	"\/img\/allrecipes\/background.jpg": {
 		"ft": 16384,
@@ -1223,6 +1248,22 @@
 		"iS": 24404,
 		"oA": 0,
 		"oAP": "\/img\/CircuitBreaker.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/img\/fb\/background.jpg": {
+		"ft": 16384,
+		"iS": 73628,
+		"oA": 0,
+		"oAP": "\/img\/fb\/background.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/img\/fb\/hello-type.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/img\/fb\/hello-type.png",
 		"oF": 0,
 		"opt": 1
 		},
@@ -1819,6 +1860,22 @@
 		"iS": 68876,
 		"oA": 0,
 		"oAP": "\/img\/port\/tny\/04.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/img\/port\/tny\/paywalls.jpg": {
+		"ft": 16384,
+		"iS": 480395,
+		"oA": 0,
+		"oAP": "\/img\/port\/tny\/paywalls.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/port\/tny\/paywalls.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/img\/port\/tny\/paywalls.png",
 		"oF": 0,
 		"opt": 1
 		},
